@@ -1,1 +1,1 @@
-# -EEG_train_model
+# EEG_train_model
